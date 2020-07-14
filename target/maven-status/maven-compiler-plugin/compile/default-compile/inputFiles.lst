@@ -1,6 +1,7 @@
-C:\Users\olehv\Desktop\java projects\PR\src\main\java\DAO\carDAO.java
-C:\Users\olehv\Desktop\java projects\PR\src\main\java\model\Driver.java
-C:\Users\olehv\Desktop\java projects\PR\src\main\java\controller\HelloJava.java
-C:\Users\olehv\Desktop\java projects\PR\src\main\java\model\car.java
-C:\Users\olehv\Desktop\java projects\PR\src\main\java\controller\DB.java
-C:\Users\olehv\Desktop\java projects\PR\src\main\java\model\Race.java
+C:\Users\olehv\Desktop\java projects\PR\src\main\java\servlet\GetIndexPageServlet.java
+C:\Users\olehv\Desktop\java projects\PR\src\main\java\servlet\DeleteRacerServlet.java
+C:\Users\olehv\Desktop\java projects\PR\src\main\java\servlet\AddRacerServlet.java
+C:\Users\olehv\Desktop\java projects\PR\src\main\java\servlet\ContextListener.java
+C:\Users\olehv\Desktop\java projects\PR\src\main\java\servlet\UpdateRacerServlet.java
+C:\Users\olehv\Desktop\java projects\PR\src\main\java\model\Racer.java
+C:\Users\olehv\Desktop\java projects\PR\src\main\java\controller\Utils.java
