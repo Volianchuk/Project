@@ -1,10 +1,9 @@
-Create table "CAR"(
+Create table "Racer"(
     ID int,
-    MODEL text,
-    MAX_SPEED int,
-    ENG_POWER int,
-    TIME_TO_100 double,
-    WEIGHT int,
+    NAME text,
+    AGE int,
+    CAR_MODEL text,
+    MAX_SPEED double,
     CONSTRAINT "ID" PRIMARY KEY (ID)
 );
-INSERT INTO CAR VALUES ( 1, 'Reno', 220, 300,3.7, 899 );
+INSERT INTO CAR VALUES ( 1, 'Oleh', 23, 'Audi', 258 );
